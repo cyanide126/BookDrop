@@ -2,7 +2,7 @@
 body {
      font-family: 'Source Sans Pro', sans-serif;
      margin: 0px;
-     background-color: #F4E7FA;
+     background-color: #E0E0E0;
 
 }
 
@@ -60,7 +60,7 @@ color: #212121;
 
   /* dark purple 1 */
 
-  color: #67108F;
+  color: #4F4F4F;
   margin:0px;
   padding-bottom: 0.6em;
   cursor: none;

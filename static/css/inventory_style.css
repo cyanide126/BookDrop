@@ -8,7 +8,7 @@ body {
 
 
 .section1{
-     background-color: #f4e7fa;
+     background-color: #E0E0E0;
      padding: 2em 2em;
 }
 
@@ -45,9 +45,9 @@ body {
 }
 
 .add-btn-group button{
-  background-color: #f4e7fa;
+  background-color: #E0E0E0;
    border: 1px #ffffff;
-   color: #67108F;
+   color: #4F4F4F;
    border-style: solid;
    text-align: center;
    text-decoration: none;

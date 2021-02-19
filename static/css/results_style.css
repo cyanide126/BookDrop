@@ -8,7 +8,7 @@ body {
 
 
 .section1{
-     background-color: #f4e7fa;
+     background-color: #E0E0E0;
      padding: 2em 2em;
 }
 
@@ -42,14 +42,14 @@ body {
 
 
 .refine-btn button{
-    background-color: #f4e7fa;
+    background-color: #E0E0E0;
 
     padding: 0.4em;
     border-color: #ffffff;
     border-radius: 5px;
     border-width: 1px;
     display: flex;
-    color: #67108f;
+    color: #4F4F4F;
     border-style: solid;
     height:26px;
 

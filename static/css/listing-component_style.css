@@ -8,7 +8,7 @@
 
 .listing-component button{
     background-color: #ffffff;
-    border-color: #f4e7fa;
+    border-color: #E0E0E0;
     border-radius: 5px;
     border-width: 1px;
     border-style: solid;
@@ -22,7 +22,7 @@
 }
 .listing-img{
     width: 30%;
-    background-color: #f4e7fa;
+    background-color: #E0E0E0;
     border-radius: 0px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;

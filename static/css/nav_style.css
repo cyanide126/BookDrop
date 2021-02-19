@@ -3,7 +3,7 @@
 .nav{
      display: flex;
      padding: 0.5em 0.7em;
-     background-color: #f4e7fa
+     background-color: #E0E0E0
 
 
 }
@@ -20,7 +20,7 @@
     border-radius: 5px;
     font-family: 'Source Sans Pro', sans-serif;
     border-color: transparent;
-    color: #67108F
+    color: #4F4F4F
 
 
 }
@@ -47,7 +47,7 @@
     padding: 0px;
     display: grid;
     margin: auto;
-    
+
 }
 
 .logo-btn img{

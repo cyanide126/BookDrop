@@ -12,7 +12,7 @@
 
   /* dark purple 1 */
 
-  color: #67108F;
+  color: #4F4F4F;
   margin:0px;
   padding-bottom: 0.6em;
   cursor: none;
@@ -37,7 +37,7 @@
 
 .form-component{
   box-sizing: border-box;
-  border-bottom: 1px #67108F;
+  border-bottom: 1px #4F4F4F;
   border-bottom-style: solid;
 }
 
@@ -70,8 +70,8 @@
 
 .form-btn-group button{
   background-color: #ffffff;
-   border: 1px #67108F;
-   color: #67108F;
+   border: 1px #4F4F4F;
+   color: #4F4F4F;
    border-style: solid;
    text-align: center;
    text-decoration: none;
@@ -109,7 +109,7 @@
 
 .form-textarea{
   box-sizing: border-box;
-  border-bottom: 1px #67108F;
+  border-bottom: 1px #4F4F4F;
   border-bottom-style: solid;
 }
 .form-textarea textarea{
@@ -164,8 +164,8 @@
 
 .sort-btn button{
   background-color: #ffffff;
-   border: 1px #67108F;
-   color: #67108F;
+   border: 1px #4F4F4F;
+   color: #4F4F4F;
    border-style: solid;
    text-align: center;
    text-decoration: none;
